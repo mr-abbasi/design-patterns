@@ -1,9 +1,6 @@
 package factoryMethod.abstractCreator;
 
-import factoryMethod.model.Circle;
-import factoryMethod.model.Rectangle;
 import factoryMethod.model.Shape;
-import factoryMethod.model.Square;
 
 /**
  * @author Mohammad.Abbasi
